@@ -1,7 +1,7 @@
 # TO-DO-LIST
 # Usage
 
-1 Open the web app.
+1. Open the web app.
 2. Add tasks using the input field.
 3. Edit or delete tasks using the provided actions.
 4. Mark tasks as completed by checking the checkbox.
